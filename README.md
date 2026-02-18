@@ -3,4 +3,5 @@
 # LINKS FOR DOWNLOAD:
 GITHUB: https://desktop.github.com/download/ 
 VISUAL STUDIO CODE: https://code.visualstudio.com/download
+GIT: https://git-scm.com/install/
 
